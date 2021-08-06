@@ -1,0 +1,22 @@
+{
+  "name": "starter_p5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bs-config.js",
+  "scripts": {
+    "server": "browser-sync start -c bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanahana0201/starter_p5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanahana0201/starter_p5/issues"
+  },
+  "homepage": "https://github.com/hanahana0201/starter_p5#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.4"
+  }
+}
